@@ -171,6 +171,31 @@ Any and all contributions are greatly appreciated! Here are some ideas for ways 
 - Test Launchpad and find out where it could be improved. Report bugs and make feature requests: https://github.com/VolantisDev/Launchpad/issues
 - Submit PRs for fixing bugs or adding functionality to Launchpad itself: https://github.com/VolantisDev/Launchpad/pulls
 
+
+
+To start contributing, follow the below guidelines: 
+
+**1.**  Fork [this](git@github.com:Contributed-Repositories/jopiter-backend.git) repository.
+
+**2.**  Clone your forked copy of the project.
+
+     $ git clone https://github.com/<your_user_name>/jopiter-backend.git
+
+     
+**3.** Checkout into a new branch 
+
+     $ git checkout -b <branch_name>
+
+**4.** Make your changes
+
+**5.** Add and commit your changes
+
+     $ git add . && git commit -m "<your_message>"
+     
+**6.** Push Code to Github under your branch 
+
+     $ git push origin <branch_name>   
+
 ## Attribution
 
 - Icons made by [iconixar](https://www.flaticon.com/authors/iconixar) from [Flaticon](https://www.flaticon.com/).
